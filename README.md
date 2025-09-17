@@ -1,4 +1,4 @@
-# COMAP-MCM-2023
+# COMAP MCM/ICM 2023-2026
 
 我们的赛题：MCM-B: Reshape the Crowning Glory of Maasai Mara (2316192)
 
